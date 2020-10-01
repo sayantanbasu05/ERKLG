@@ -1,0 +1,730 @@
+Entity,Tags,Rating_by_Clinician
+lys-asp-glu-leu,chemical,1
+ceramide,chemical,4
+sugars,chemical,2
+α5 integrin,protein,4
+flr,protein,0
+ribophorin i,protein,0
+golgi enzymes,protein,3
+tmpyp4,protein,0
+trna tyr,protein,1
+er retention signal,protein,0
+sarl,protein,0
+nd,disease,2
+lipofectamine,chemical,1
+ricin,protein,4.9
+mrnas,protein,0
+heparin,protein,0
+nhz,protein,0
+tbhq,chemical,1
+annexin,protein,3
+eif2,protein,4
+neu5ac9nac,protein,0
+sirs,disease,4
+as,chemical,0
+isopeptide,chemical,2
+dna sensors,protein,0
+10-amino acid,chemical,1
+dsrna receptors,protein,1
+streptavidin,protein,1
+protein kinase rna,protein,1
+sorbitol,chemical,0
+s-303,chemical,0
+h7n9,disease,0
+bovine serum albumin,protein,5
+srna rntrpl,protein,0
+red fluorescent protein,protein,0
+chimeras,protein,0
+melanoma differentiation-associated gene 5,protein,0
+sucrose,chemical,2
+galactose,chemical,4.5
+encephalomyocarditis virus,disease,1
+ds,protein,0
+itraconazole,chemical,3
+lysine,chemical,2
+brefeldin,chemical,3
+cac12,chemical,1
+ages,protein,1
+tnf-␣,protein,3
+immune deficiency,disease,4
+caspase,protein,1
+sigma,protein,1
+dhe,chemical,0
+phosphatidylserine,chemical,1
+hsp70,protein,4
+cytoplasmic domain,protein,2
+rna polymerase ii,protein,0
+ternary complex,protein,1
+psi-938,chemical,3
+core proteins,protein,4
+hetero,protein,0
+viroporin mutants,protein,0
+dithiothreitol,chemical,2
+jun,protein,0
+lsectin,protein,0
+malachite green,chemical,3
+cd123,protein,3
+envelope protein,protein,4
+ethanol,chemical,3
+cephalosporin,chemical,4
+soluble factors,protein,3
+annexin v,protein,2
+neaa,chemical,0
+oas,protein,0
+gly,protein,2
+retinoic acid inducible gene-1,protein,0
+eif2,protein,1
+cas9,protein,1
+pore,protein,0
+estradiol,chemical,4
+chol,protein,0
+gmp,chemical,3
+fitc,protein,1
+rig-i,disease,0
+gallic acid,chemical,2
+ifnb,protein,1
+streptolysin o,chemical,0
+carbohydrates,chemical,1
+pat1,protein,2
+ia,protein,0
+dhh1,protein,0
+endo,protein,0
+acs,disease,2
+e1 glycoprotein,protein,3
+primary antibody,protein,4
+erb,protein,1
+carbohydratebinding,chemical,3
+double-stranded rnas,protein,1
+hhl,protein,0
+melanoma,disease,4
+duplex dna,protein,0
+viroporin,protein,0
+ii cytoplasmic tail,protein,0
+30s ribosomal subunit,protein,4
+chemokine receptor,protein,3
+n7-guanine,chemical,2
+brv-1,protein,3
+theobromine,chemical,4
+tyr,chemical,3
+herpes simplex virus type 2,disease,1
+adamantane,chemical,1
+rhinovirus,disease,0
+arachidonate,chemical,1
+hypervariable region,protein,3
+f85a,protein,1
+omeprazole,chemical,0
+mel-14,protein,1
+chalcone,chemical,0
+escherichia coli,disease,0
+topoisomerase ii,protein,3
+hypoxanthine guanine phosphoribosyl,chemical,3
+tween,chemical,0
+fbs,chemical,0
+r1,protein,0
+pcr products,protein,0
+nfkb,protein,4
+idp,protein,0
+sialate,protein,1
+epoxy,chemical,2
+ciaps,protein,0
+tumorales,disease,1
+sahase,protein,0
+pattern recognition receptors,protein,4
+isg,protein,0
+pyrrolidine dithiocarbamate,chemical,0
+à1 fs,protein,3
+interleukin-5,protein,4
+tazobactam,chemical,4
+nucleoside-2,chemical,2
+wn,protein,0
+cpy,protein,0
+transmembrane region,protein,3
+ft,protein,0
+gram,protein,0
+n 6,protein,1
+dd,protein,0
+cd56,protein,3
+nitric oxide,chemical,4
+ca(2 +),chemical,1
+enzyme 's binding pocket,protein,0
+adamantanes,chemical,2
+cyclin,protein,3
+2-5a,protein,0
+phosphorylation sites,protein,0
+cd19,protein,3
+h repressor,protein,0
+rabbit anti,protein,0
+efl,protein,0
+piperacillin,chemical,5
+blasticidin,chemical,3
+indomethacin,chemical,3
+lectin,protein,3
+coomassie brilliant blue,chemical,0
+s-layer protein,protein,1
+methylcellulose,chemical,4
+r-848,chemical,2
+isr,protein,0
+vre,disease,1
+chronic inflammation,disease,2
+intra,protein,0
+sym,protein,0
+morphine,chemical,1
+adenovirus,disease,0
+myocardial infarction,disease,4
+er a,protein,0
+porphyrins,chemical,3
+gas6,protein,1
+tr chimeras,protein,2
+lipopolysaccharide,chemical,0
+pgkl plasmid,protein,0
+lower respiratory tract infections,disease,4
+vomiting,disease,1
+bromodeoxyuridine,chemical,3
+mek,protein,0
+feline immunodeficiency virus,disease,0
+glycyrrhizic acid,chemical,1
+infective endocarditis,disease,2
+5'triphosphate,chemical,4
+ctb,protein,1
+japanese encephalitis virus,disease,1
+hum,protein,0
+azi2,protein,0
+feline leukemia virus,disease,0
+polynucleotide,chemical,3
+stat1,protein,4
+nalidixic acid,chemical,4
+pseudoknot,protein,2
+tannic acid,chemical,0
+nh2-terminal,chemical,0
+cl −,chemical,0
+phosphotyrosine,chemical,1
+hydroxyprolinol,chemical,2
+neutravidin,protein,1
+13 c,chemical,1
+acute abdomen,disease,2
+escrt,protein,0
+c-terminus,protein,3
+histidine tag,protein,0
+acute chest syndrome,disease,2
+dyspnea,disease,0
+thymidine kinase (tk) gene,protein,4
+sulfate-,chemical,2
+juglanin,chemical,1
+myxedema coma,disease,2
+c1,protein,2
+cdcl,chemical,1
+denv protease,protein,0
+acpo,disease,0
+lemierre syndrome,disease,1
+pulmonary embolism,disease,5
+adenosine,chemical,2
+linker region,protein,1
+human igg,protein,4
+guanylate,chemical,1
+aidp,disease,3
+ifnc,protein,1
+acute coronary syndrome,disease,4
+stefin b,protein,1
+infarction,disease,2
+acute myocardial infarction,disease,1
+tak2,protein,0
+dna complexes,protein,1
+codon,protein,1
+matrix metalloproteinases,protein,2
+polyunsaturated fatty acids,chemical,4
+carnitine,chemical,2
+poly-l-lysine,chemical,4
+acid phosphatase,protein,0
+sp600125,chemical,0
+mouse hepatitis virus,disease,2
+k192,protein,1
+2 0-o-ribose,chemical,4
+termination codon,protein,2
+transferrin receptor,protein,0
+slc7a11,protein,0
+metoclopramide,chemical,4.8
+iaa,chemical,0
+chromogranin b,protein,1
+g4s,protein,1
+dhhc2,protein,0
+5 ' and 3 ' ends,protein,1
+thermolysin,protein,2
+atg,protein,1
+adrenal insufficiency,disease,2
+triptolide,chemical,0
+cal,disease,1
+primary effusion lymphoma,disease,2
+jun n,protein,0
+weight loss,disease,0
+cd83,protein,2
+triple ha epitope,protein,2
+glutaraldehyde,chemical,4
+hexon,protein,0
+azotemia,disease,2
+fluv,protein,0
+vitamin k-dependent carboxylase,protein,0
+interferon-stimulated genes,protein,4
+triton x-114,chemical,0
+prolyl,chemical,1
+vp3,protein,1
+l7 mutant,protein,2
+-r,protein,1
+prostaglandin e2,chemical,1
+sindbis virus,disease,0
+muc1,protein,0
+pvax1-(pil-12,protein,2
+tizoxanide,chemical,3
+zn 2 +,chemical,3
+prostate cancer,disease,5
+cytochrome p450,protein,3
+membrane glycoproteins,protein,4
+emc/2012,protein,0
+vesicular stomatitis virus,disease,0
+cd3,protein,3
+asp-1,protein,3
+imha,disease,4
+proinflammatory cytokines,protein,5
+ang i,protein,0
+p38 mapk,protein,3
+a1,protein,1
+zika virus,disease,0
+oxytocin,chemical,3
+tio,chemical,0
+idps,protein,2
+concanavalin a,chemical,1
+sodium chloride,chemical,3
+acetone,chemical,4
+baicalein,chemical,2
+keto,chemical,3
+dipeptidyl peptidase iv,protein,2
+carboxyl termini,protein,0
+chloroquine,chemical,4
+structural proteins,protein,4
+toluidine blue,chemical,1
+guanine nucleotide,chemical,3
+spike (s),protein,5
+deoxynucleoside triphosphate,chemical,4
+ha protein,protein,4
+amino terminus,protein,1
+clathrin,protein,3
+siRNAs,protein,0
+datp,chemical,3
+mbd,protein,1
+nucleotide sequence,protein,3
+3-methyladenine,chemical,4
+nuclear factor-κb,protein,0
+tgfb,protein,2
+nucleoprotein,protein,5
+coronavirus infections,disease,4
+ece-1,protein,1
+quercitrin,chemical,1
+galn,protein,0
+4-thiouridine,protein,4
+becn1,protein,1
+n protein,protein,3
+bacteremia,disease,3
+clopidogrel,chemical,4
+2bc,protein,0
+cystatin a,protein,2
+aug,protein,1
+endonuclease,protein,2
+hscf,protein,3
+pulmonary inflammation,disease,4
+guanylyl,chemical,4
+effusion,disease,4
+3clsp,protein,1
+copper,chemical,4
+tryptophanyl,chemical,4
+nucleoside triphosphate,chemical,2
+klotho,protein,4.5
+clusterin,protein,1
+cortisone,chemical,3
+his156,protein,2
+polylysine,chemical,4
+polyoxomethylene,chemical,4.5
+cryptosporidium,chemical,0
+endothelin,protein,2
+neoplasia,disease,3
+lrti,disease,4
+holotoxin,protein,2
+lectins,protein,3
+klk,protein,3
+intracellular dna sensors,protein,0
+imac,protein,0
+zyme act,protein,1
+alanyl aminopeptidase,protein,2
+arg41,protein,1
+caudal dorsomedial medullary nucleus,protein,0
+odns,protein,1
+critical illness,disease,1
+omapatrilat,chemical,3
+membrane,protein,3
+la,protein,1
+retinal dysplasia,disease,1
+h ÷,protein,0
+sulfamethoxazole,chemical,3
+epidermal growth factor,protein,5
+norovirus,disease,0
+anticancer,disease,0
+coding sequence,protein,2
+t-1106,chemical,0
+mhc,protein,2
+anthracycline,chemical,3
+cpg dna,protein,0
+type i membrane protein,protein,5
+tocopherol,chemical,2
+moco,protein,0
+occludin,protein,0
+hco3,protein,0
+cd14,protein,4
+inducible no synthase,protein,2
+voltage,protein,1
+muscarinic receptor,protein,0
+ntp,protein,2
+s proteins,protein,5
+disabilities,disease,2
+methylenetetrahydrofolate,chemical,3
+vpo,protein,1
+ecov,protein,1
+calcineurin,protein,5
+luteolin,chemical,1
+hyperglycemia,disease,0
+alkaline phosphatase,protein,3
+ho,protein,0
+polyinosinic-polycytidylic acid,chemical,4
+mig,protein,2
+uric acid,chemical,0
+mhv-a59,protein,0
+rrv,disease,1
+bnp,protein,3
+lysosomal protein,protein,4
+srebp-1,protein,1
+adp-ribose,chemical,3
+ires,protein,0
+acute asthma attacks,disease,1
+sfn,protein,0
+glucagon,protein,0
+neomycin,chemical,4
+tat,protein,0
+viral antigens,protein,1
+asp83,protein,0
+klk13,protein,4.8
+phenyl,chemical,0
+mpp ؉,protein,0
+pi329l,protein,1
+pyx,protein,2
+3 0-acetylated testosterone17-o-β-glucoside,chemical,4
+hormone,protein,0
+nudix box,protein,0
+c-terminal domain,protein,0
+scr,protein,1
+interferons,protein,5
+2'-o-ribose methyltransferase,protein,0
+stem-loop,protein,0
+a5,protein,2
+nad +,chemical,2
+mebus,protein,0
+jb,protein,1
+cb,disease,1
+25(oh)d,protein,0
+regulatory factor,protein,3
+chlorpromazine,chemical,5
+lat2,protein,0
+coptisine,chemical,1
+cystatins,protein,1
+h5n1,disease,0
+superoxide,chemical,1
+hypoxia,disease,2
+p62,protein,2
+3c,protein,1
+thyrotropin,chemical,3
+interleukin 2,protein,3
+a24,protein,0
+nucleocapsid,protein,5
+diphosphates,chemical,3
+epitopes,protein,2
+amylase,protein,2
+viiv,protein,0
+hr2,protein,3
+palmatine,chemical,2
+malat1,protein,0
+rho,protein,4
+n-terminal half,protein,2
+neutralizing antibody,protein,4
+rnp,protein,1
+ocd,disease,4
+dipeptidyl peptidase-4,protein,2
+avidin,protein,1
+nqo1,protein,0
+ifn-,protein,2
+chemokine,protein,3
+rna processing enzyme,protein,3
+rnapolymerase,protein,2
+catecholamine,chemical,4
+pak,protein,0
+pvx,protein,2
+phage antibodies,protein,3
+nuclear transport factor 2,protein,3
+metapneumovirus,disease,1
+transmissible gastroenteritis virus,disease,0
+mtb,protein,0
+inosine 5-monophosphate,chemical,2
+sirt7,protein,0
+small molecule,protein,0
+nivolumab,chemical,1
+abatacept,chemical,1
+troponin,protein,5
+neutralizing antibodies,protein,4
+fibronectin,protein,5
+c-jun n-terminal kinase,protein,2
+il6,protein,5
+iso,protein,1
+scid,disease,4
+apigenin,chemical,1
+prednisolone,chemical,4
+cabergoline,chemical,4
+binding pocket,protein,1
+pip6f,protein,0
+ctni,chemical,0
+fap,protein,1
+trifluoromethyl ketone,chemical,2
+c-terminal portion,protein,0
+transcriptional regulatory sequence,protein,2
+n-terminal rna binding domain,protein,1
+paraffin,chemical,0
+dpp9,protein,3
+prep,protein,2
+intravenous immunoglobulin,protein,2
+amd,disease,2
+li,chemical,0
+cysteine proteases,protein,3
+tki,protein,0
+hiv-1 reverse transcriptase,protein,3
+hr1 domains,protein,2
+linear epitopes,protein,2
+orf1ab,protein,3
+wehi-3,chemical,0
+ata,chemical,0
+spr,protein,0
+nl63,protein,4
+cathepsin,protein,3
+propargylamine,chemical,1
+fatty acids,chemical,1
+plp2,protein,2
+nih,protein,0
+pc18,chemical,1
+iv,protein,0
+albumin,protein,5
+creatinine,chemical,1
+5-fluorouracil,chemical,2
+proteases,protein,2
+n29,protein,0
+abl,protein,2
+coronavirus n proteins,protein,5
+batcov hku4,protein,3
+hr1,protein,4
+host cell surface proteases,protein,3.5
+dha,chemical,4
+snare,protein,3
+pdcov s protein,protein,5
+toceranib,chemical,4
+fak,protein,3
+cov s2,protein,0
+conjugated proteins,protein,3
+diminazene,chemical,1
+3cl pro,protein,4
+feno,protein,1
+cre,protein,0
+csfv,protein,0
+papain,protein,1
+lactic dehydrogenase,protein,0
+cpli,chemical,0
+alanine,chemical,2
+l-lactate,chemical,3
+nucleocapsid gene,protein,2
+6-aminohexanoic acid,chemical,3
+pp1a,protein,0
+pip6c,protein,0
+spike proteins,protein,5
+liver enzymes,protein,4
+cd40 ligand,protein,4
+etanercept,chemical,3
+bezafibrate,chemical,4
+n-terminal portion,protein,2
+emc,protein,2
+s1 domain,protein,2
+urea,chemical,3
+plasma hemoglobin,protein,2
+prednisone,chemical,4.9
+calreticulin,protein,3
+vildagliptin,chemical,5
+6-mercaptopurine,chemical,2
+pip5e,protein,1
+procalcitonin,chemical,5
+bcov,protein,0
+ebov vp35,protein,2
+globulin,protein,3
+srr7,protein,1
+pla2g2d,protein,1
+tcid,chemical,2
+ribavirin,chemical,3
+hr2 domains,protein,0
+impdh,protein,1
+dub,protein,1
+enfuvirtide,chemical,4
+urine protein,protein,2
+d510 g and i529 t,protein,2
+ferritin,protein,0
+pip6d,protein,2
+pol2zn site,protein,0
+cystatin c,chemical,4
+amino acid sequence,protein,5
+sars-,chemical,0
+human immunoglobulin,protein,5
+guanidine hydrochloride,chemical,1
+c-terminal heptad repeat,protein,2
+batcov hku5,protein,3
+nilotinib,chemical,1
+nucleotide sugar,chemical,3
+autoantibodies,protein,3
+parallel trimers,protein,0
+sorafenib,chemical,5
+cov-2,protein,0
+sitagliptin,chemical,4
+structural protein 5,protein,5
+alt,protein,0
+azt,chemical,3
+fludarabine,chemical,1
+neopterin,chemical,2
+wnt,protein,0
+pil-18,protein,2
+cd13,protein,4.5
+eicosanoids,chemical,4
+dipeptidyl peptidase 4,protein,2
+at4,protein,0
+medroxyprogesterone acetate,chemical,4
+tpr,protein,1
+aspartate aminotransferase,protein,1
+crt,protein,1
+triglycerides,chemical,4
+sars_np,protein,3
+dipeptide,chemical,2
+dasatinib,chemical,4
+g3bp1,protein,4
+nucleocapsid (n) protein,protein,4
+prothrombin,protein,3
+cov proteins,protein,4
+transferase,protein,1
+immunodominant epitopes,protein,2
+c m,protein,0
+cov papain,protein,0
+amodiaquine,chemical,3
+ek1c4,protein,0
+carbon monoxide,chemical,0
+cov spike (s) protein,protein,4.8
+pvax1-(pedv,protein,0
+butyrate,chemical,3
+kit,protein,2
+tmprss2,protein,5
+tagged recombinant proteins,protein,3
+n-terminal domain,protein,4
+srr11,protein,1
+cov nucleocapsid protein,protein,3
+s2 subunit,protein,3
+nrp,protein,2
+fatty acid,chemical,3
+hydrophobic core,protein,0
+creatine kinase isoenzyme,protein,3
+c-reactive protein,protein,5
+diminazene aceturate,chemical,0
+nsp1,protein,3
+putative nonstructural proteins,protein,4
+immunoglobulin g,protein,4
+nevirapine,chemical,5
+orf1b,protein,3
+coronavirus sequences,protein,2
+alanine transaminase,protein,1
+spike regions,protein,4
+teicoplanin,chemical,5
+pp1ab,protein,4
+receptor binding domains,protein,5
+cathepsins,protein,4
+bilirubin,chemical,4
+bilirubinuria,chemical,3
+bat_sars,protein,3
+creatine,chemical,4
+pvax1,protein,2
+viral proteinases,protein,0
+replicase polyproteins,protein,1
+6tg,chemical,1
+phosphorous,chemical,4
+16 subunits,protein,3
+nsp,protein,5
+r441a,protein,2
+reverse transcription,protein,3
+cox2,protein,0
+imp,chemical,3
+orf1a,protein,3
+nsp3,protein,2
+cov s glycoprotein,protein,4
+s450-650,protein,3
+gamma glutamyltransferase,protein,5
+mf59,protein,0
+cardiac troponin,protein,3
+pkl,protein,1
+s1 subunit,protein,4.9
+rna structure,protein,3
+magnesium,chemical,3
+inosine monophosphate,chemical,3
+nelfinavir,chemical,5
+sarsr,protein,1
+philadelphia chromosome,protein,0
+focal adhesion kinase,protein,2
+cep_c30,protein,5
+exon,protein,0
+plvp,protein,0
+aspartate,chemical,2
+sprotein,protein,5
+pancov,protein,1
+mycophenolic acid,chemical,2
+nidoviruses,protein,0
+mizoribine,chemical,3
+dimercaptosuccinic acid,chemical,3
+androgen receptor,protein,0
+spike (s) protein,protein,5
+coronavirus s protein,protein,2
+imatinib,chemical,3
+ritonavir,chemical,4
+e7,protein,2
+creatine kinase,protein,3
+6mp,chemical,2
+class i viral fusion proteins,protein,3
+resazurin,chemical,4
+s1 region,protein,1
+bismuth citrate,chemical,2
+reactive protein,protein,3
+pla 2 g2d,protein,0
+cov s protein,protein,4
+receptor-binding domain,protein,2
+ratg13,protein,1
+niclosamide,chemical,3
+terconazole,chemical,4
+lopinavir,chemical,4
+fusion subunit,protein,4
+mers,protein,0
+bortezomib,chemical,4
+pao,chemical,0
+fusion,protein,5
+protease domains,protein,1
+hcov whole genomes,protein,1
+aminotransferase,protein,2
+angiotensin converting enzyme 2,protein,1
+saquinavir,chemical,5
+spike protein,protein,5
+promazine,chemical,3
+lactate,chemical,4
+lactate dehydrogenase,protein,2
+rbm,protein,2
+spike glycoprotein,protein,4
+receptor binding domain,protein,0
+parp1,protein,2

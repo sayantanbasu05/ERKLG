@@ -1,0 +1,26 @@
+Entity,Tags,Rating_by_Clinician
+receptor binding domain,protein,5
+parp1,protein,2
+spike protein,protein,5
+lactate dehydrogenase,protein,5
+s1 subunit,protein,4.9
+mers,protein,0
+ferritin,protein,0
+lopinavir,chemical,4
+lactate,chemical,4
+bortezomib,chemical,4
+ritonavir,chemical,4
+niclosamide,chemical,4
+amino acid,chemical,5
+ribavirin,chemical,4
+bilirubin,chemical,4
+mycophenolic acid,chemical,1
+butyrate,chemical,1
+acute lung injury,Disease,2
+acute respiratory syndrome,Disease,4
+hepatitis virus,Disease,0
+sars - cov,Disease,5
+simian hemorrhagic fever virus,Disease,0
+thrombocytopenia,Disease,1
+anaemia,Disease,0
+mers - cov,Disease,4
