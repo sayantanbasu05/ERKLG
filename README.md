@@ -10,7 +10,7 @@ the same domain. Our pipeline consists of a Knowledge Graph (KG) created from th
 # Pipeline Architecture
 ![ERLKG diagram](Images/ERLKG_pipeline.jpg)
 Illustrator: [Sanket Wakade](https://www.linkedin.com/in/sanket-wakade/)
-# Proposed intrinsic datasets
+# Proposed Intrinsic Evaluation Datasets
 We release two datasets namely, COVID19_729 and COV19_25. The datasets contain 729 and 25 entities along with their types( chemicals, proteins or diseases). Each entity has a corresponding score( between 1 to 5) which measures its association with COVID-19, as per the physians.
 # Cite
 If your work is inspired by this research or you use these datasets, please cite this paper.
