@@ -13,7 +13,7 @@ We introduce a generic, human-out-of-the loop pipeline, ERLKG, to perform rapid 
 ![ERLKG diagram](Images/ERLKG_pipeline.jpg)
 Illustrator: [Sanket Wakade](https://www.linkedin.com/in/sanket-wakade/)
 #### Proposed Intrinsic Evaluation Datasets
-We release two datasets namely, COV19_729 and COV19_25. The datasets contain 729 and 25 entities along with their types( chemicals, proteins or diseases). Each entity has a corresponding score (on a scale of 1 to 5) which measures its association with COVID-19, as per the physicians.
+We release two datasets namely, COV19_729 and COV19_25. The datasets are present in "dataset for intrinsic evaluation" folder that contain 729 and 25 entities along with their types( chemicals, proteins or diseases). Each entity has a corresponding physician ratings (on a scale of 1 to 5) which measures its association with COVID-19.
 #### Cite
 If your work is inspired by this research or you use these datasets, please cite this paper.
 
