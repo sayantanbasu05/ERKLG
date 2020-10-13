@@ -5,6 +5,8 @@ Will be updated upon release.
 
 Current status: Accepted, SDP@EMNLP 2020.
 
+[Link to list of accepted papers](https://ornlcda.github.io/SDProc/accepted-papers.html)
+
 Code and corresponding ReadME will be updated soon.
 
 ### Abstract
