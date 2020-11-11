@@ -1,6 +1,6 @@
 ## ERLKG: Entity Representation Learning and Knowledge Graph based association analysis of COVID-19 through mining of unstructured biomedical corpora
 #### Authors: [Sayantan Basu](https://www.linkedin.com/in/sayantan-basu-a29861a1/), [Sinchani Chakraborty](https://www.linkedin.com/in/sinchani-chakraborty-087321ab/), [Atif Hassan](https://www.linkedin.com/in/atif-hassan-1a8a45127/), Sana Siddique and [Ashish Anand](https://www.linkedin.com/in/anandashish/)
-#### Link
+#### Paper at:
 https://www.aclweb.org/anthology/2020.sdp-1.15/
 
 Current status: Accepted, SDP@EMNLP 2020.
