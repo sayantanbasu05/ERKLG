@@ -3,9 +3,7 @@
 #### Paper at:
 https://www.aclweb.org/anthology/2020.sdp-1.15/
 
-Current status: Accepted, SDP@EMNLP 2020.
-
-[Link to list of accepted papers](https://ornlcda.github.io/SDProc/accepted-papers.html)
+Status: Accepted, SDP@EMNLP 2020.
 
 Code and corresponding ReadME will be updated soon.
 
