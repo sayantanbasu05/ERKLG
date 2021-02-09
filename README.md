@@ -1,15 +1,8 @@
 # ERLKG: Entity Representation Learning and Knowledge Graph based association analysis of COVID-19 through mining of unstructured biomedical corpora
 
->[ERLKG: Entity Representation Learning and Knowledge Graph based association analysis of COVID-19 through mining of unstructured biomedical corpora *Sayantan Basu\*(https://www.linkedin.com/in/sayantan-basu-a29861a1/), Sinchani Chakraborty\*, Atif Hassan\*, Sana Siddique\*,Ashish Anand*](https://www.aclweb.org/anthology/2020.sdp-1.15/)
+>[ERLKG: Entity Representation Learning and Knowledge Graph based association analysis of COVID-19 through mining of unstructured biomedical corpora *Sayantan Basu\*, Sinchani Chakraborty\*, Atif Hassan\*, Sana Siddique\*,Ashish Anand*](https://www.aclweb.org/anthology/2020.sdp-1.15/)
 
 accepted at [Scholarly Document Processing, EMNLP 2020](https://ornlcda.github.io/SDProc/index.html).
-
-
-#### Authors: [Sayantan Basu](https://www.linkedin.com/in/sayantan-basu-a29861a1/), [Sinchani Chakraborty](https://www.linkedin.com/in/sinchani-chakraborty-087321ab/), [Atif Hassan](https://www.linkedin.com/in/atif-hassan-1a8a45127/), Sana Siddique and [Ashish Anand](https://www.linkedin.com/in/anandashish/)
-#### Paper at:
-https://www.aclweb.org/anthology/2020.sdp-1.15/
-
-Status: Accepted, SDP@EMNLP 2020.
 
 
 ### Abstract
@@ -21,6 +14,10 @@ Illustrator: [Sanket Wakade](https://www.linkedin.com/in/sanket-wakade/)
 
 ### Proposed Intrinsic Evaluation Datasets
 We have released two datasets for intrinsic evaluation, namely, COV19_729 and COV19_25. The datasets are present in [dataset for intrinsic evaluation](https://github.com/sayantanbasu05/ERKLG/tree/master/Dataset%20for%20Intrinsic%20Evaluation) folder that contain 729 and 25 entities along with their types (chemicals, proteins or diseases). Each entity has a corresponding physician rating (on a scale of 1 to 5) which measures its association with COVID-19.
+
+For a more detailed explanation of the project, please visit this [blog post](https://www.deepwizai.com/erlkg)
+
+#### Author Details: [Sayantan Basu](https://www.linkedin.com/in/sayantan-basu-a29861a1/), [Sinchani Chakraborty](https://www.linkedin.com/in/sinchani-chakraborty-087321ab/), [Atif Hassan](https://www.linkedin.com/in/atif-hassan-1a8a45127/), Sana Siddique and [Ashish Anand](https://www.linkedin.com/in/anandashish/)
 
 ### Cite
 If your work is inspired by our research and/or you use our provided datasets then please cite this paper.
