@@ -43,8 +43,7 @@ We have released two datasets for intrinsic evaluation, namely, COV19_729 and CO
 <p align="center">
   <img width="500" alt="mono_ar" src="https://github.com/sayantanbasu05/ERKLG/blob/master/Images/disease_covid_transd.png">
 </p>
-
-
+Fig:  Biomedical disease entities closely related to COVID-19
 
 
 ### For a more detailed explanation of the project, please visit this [blog post](https://www.deepwizai.com/erlkg)
