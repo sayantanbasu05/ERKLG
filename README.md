@@ -1,4 +1,4 @@
-# ERLKG: Entity Representation Learning and Knowledge Graph based association analysis of COVID-19 through mining of unstructured biomedical corpora
+# ERLKG
 
 This is the repository for the paper
 
@@ -17,17 +17,34 @@ We introduce a generic, human-out-of-the loop pipeline, ERLKG, to perform rapid 
 
 Illustrator: [Sanket Wakade](https://www.linkedin.com/in/sanket-wakade/)
 
+## Link Prediction
+
+Method | ROC | AP| 
+--- | --- | ---
+RotatE (Sun et al., 2019) | 0.858 | **0.887**
+TransD (Ji et al., 2015) | **0.860** | 0.883
+TransE (Bordes et al., 2013) | 0.853 | 0.877
+DistMult (Yang et al., 2015) | 0.855 | 0.883
+ComplEx (Trouillon et al., 2016) | 0.852 | 0.881
+Node2Vec (Grover and Leskovec, 2016)	 | 0.821 | 0.849
+Table 1: Link Prediction performance of different KG embedding techniques on the test set using the GCN-AE model
+
 
 ## Proposed Intrinsic Evaluation Datasets
 We have released two datasets for intrinsic evaluation, namely, COV19_729 and COV19_25. The datasets are present in [dataset for intrinsic evaluation](https://github.com/sayantanbasu05/ERKLG/tree/master/Dataset%20for%20Intrinsic%20Evaluation) folder that contain 729 and 25 entities along with their types (chemicals, proteins or diseases). Each entity has a corresponding physician rating (on a scale of 1 to 5) which measures its association with COVID-19.
+
+## Result
 
 <p align="center">
   <img width="800" alt="mono_ar" src="https://github.com/sayantanbasu05/ERKLG/blob/master/Images/COV19_25%20Dataset%20Construction.png">
 </p>
 
 
+## 
 
-#### For a more detailed explanation of the project, please visit this [blog post](https://www.deepwizai.com/erlkg)
+
+
+### For a more detailed explanation of the project, please visit this [blog post](https://www.deepwizai.com/erlkg)
 
 
 Author Details: [Sayantan Basu](https://www.linkedin.com/in/sayantan-basu-a29861a1/), [Sinchani Chakraborty](https://www.linkedin.com/in/sinchani-chakraborty-087321ab/), [Atif Hassan](https://www.linkedin.com/in/atif-hassan-1a8a45127/), Sana Siddique and [Ashish Anand](https://www.linkedin.com/in/anandashish/)
