@@ -27,6 +27,7 @@ TransE (Bordes et al., 2013) | 0.853 | 0.877
 DistMult (Yang et al., 2015) | 0.855 | 0.883
 ComplEx (Trouillon et al., 2016) | 0.852 | 0.881
 Node2Vec (Grover and Leskovec, 2016)	 | 0.821 | 0.849
+
 Table 1: Link Prediction performance of different KG embedding techniques on the test set using the GCN-AE model
 
 
