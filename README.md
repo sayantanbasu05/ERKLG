@@ -41,7 +41,7 @@ We have released two datasets for intrinsic evaluation, namely, COV19_729 and CO
 
 ## Result
 <p align="center">
-  <img width="800" alt="mono_ar" src="https://github.com/sayantanbasu05/ERKLG/blob/master/Images/disease_covid_transd.png">
+  <img width="500" alt="mono_ar" src="https://github.com/sayantanbasu05/ERKLG/blob/master/Images/disease_covid_transd.png">
 </p>
 
 
