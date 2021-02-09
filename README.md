@@ -11,7 +11,7 @@ We introduce a generic, human-out-of-the loop pipeline, ERLKG, to perform rapid 
 
 ### Pipeline Architecture
 <p align="center">
-  <img width="500" alt="mono_ar" src="https://github.com/sayantanbasu05/ERKLG/blob/master/Images/ERLKG_illustration.jpg">
+  <img width="700" alt="mono_ar" src="https://github.com/sayantanbasu05/ERKLG/blob/master/Images/ERLKG_illustration.jpg">
 </p>
 ![ERLKG diagram](Images/ERLKG_illustration.jpg)
 Illustrator: [Sanket Wakade](https://www.linkedin.com/in/sanket-wakade/)
