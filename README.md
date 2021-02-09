@@ -34,14 +34,16 @@ Table 1: Link Prediction performance of different KG embedding techniques on the
 ## Proposed Intrinsic Evaluation Datasets
 We have released two datasets for intrinsic evaluation, namely, COV19_729 and COV19_25. The datasets are present in [dataset for intrinsic evaluation](https://github.com/sayantanbasu05/ERKLG/tree/master/Dataset%20for%20Intrinsic%20Evaluation) folder that contain 729 and 25 entities along with their types (chemicals, proteins or diseases). Each entity has a corresponding physician rating (on a scale of 1 to 5) which measures its association with COVID-19.
 
-## Result
-
 <p align="center">
   <img width="800" alt="mono_ar" src="https://github.com/sayantanbasu05/ERKLG/blob/master/Images/COV19_25%20Dataset%20Construction.png">
 </p>
 
 
-## 
+## Result
+<p align="center">
+  <img width="800" alt="mono_ar" src="https://github.com/sayantanbasu05/ERKLG/blob/master/Images/disease_covid_transd.png">
+</p>
+
 
 
 
