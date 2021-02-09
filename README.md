@@ -1,4 +1,10 @@
-## ERLKG: Entity Representation Learning and Knowledge Graph based association analysis of COVID-19 through mining of unstructured biomedical corpora
+# ERLKG: Entity Representation Learning and Knowledge Graph based association analysis of COVID-19 through mining of unstructured biomedical corpora
+
+>[ERLKG: Entity Representation Learning and Knowledge Graph based association analysis of COVID-19 through mining of unstructured biomedical corpora *Sayantan Basu\*, Sinchani Chakraborty\*, Atif Hassan\*, Sana Siddique\*,Ashish Anand*](https://www.aclweb.org/anthology/2020.sdp-1.15/)
+
+accepted at [The Twelfth ACM International Conference on Web Search and Data Mining (WSDM’19), February 11--15, 2019, Melbourne, VIC, Australia](http://www.wsdm-conference.org/2019/).
+
+
 #### Authors: [Sayantan Basu](https://www.linkedin.com/in/sayantan-basu-a29861a1/), [Sinchani Chakraborty](https://www.linkedin.com/in/sinchani-chakraborty-087321ab/), [Atif Hassan](https://www.linkedin.com/in/atif-hassan-1a8a45127/), Sana Siddique and [Ashish Anand](https://www.linkedin.com/in/anandashish/)
 #### Paper at:
 https://www.aclweb.org/anthology/2020.sdp-1.15/
@@ -19,5 +25,11 @@ We have released two datasets for intrinsic evaluation, namely, COV19_729 and CO
 
 ### Cite
 If your work is inspired by our research and/or you use our provided datasets then please cite this paper.
-
-Bib Text: Will be updated upon paper release.
+```
+@inproceedings{Basu2020ERLKGER,
+  title={ERLKG: Entity Representation Learning and Knowledge Graph based association analysis of COVID-19 through mining of unstructured biomedical corpora},
+  author={Sayantan Basu and Sinchani Chakraborty and Atif Hassan and Sana Siddique and A. Anand},
+  booktitle={SDP@EMNLP},
+  year={2020}
+}
+```
