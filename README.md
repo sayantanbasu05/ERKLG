@@ -9,6 +9,9 @@ accepted at [Scholarly Document Processing, EMNLP 2020](https://ornlcda.github.i
 
 We introduce a generic, human-out-of-the loop pipeline, ERLKG, to perform rapid association analysis of any biomedical entity with other existing entities from a corpora of the same domain. Our pipeline consists of a Knowledge Graph (KG) created from the Open Source CORD-19 dataset by fully automating the procedure of information extraction using **SciBERT**. The best latent entity representations are then found by benchnmarking different KG embedding techniques on the task of link prediction using a **Graph Convolution Network Auto Encoder (GCN-AE)**. We demonstrate the utility of ERLKG with respect to COVID-19 through multiple qualitative evaluations. Due to the lack of a gold standard, we propose a relatively large intrinsic evaluation dataset for **COVID-19** and use it for validating the top two performing KG embedding techniques. We find TransD to be the best performing KG embedding technique with Pearson and Spearman correlation scores of 0.4348 and 0.4570 respectively. We demonstrate that a considerable number of ERLKG’s top protein, chemical and disease predictions are currently in consideration for COVID-19 related research.
 
+##Dataset
+We used the CORD-19 corpus (Wang et al., 2020a) that was published by Allen AI in association with White House and other organizations. It was made publicly available on the [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) platform as a part of an open research challenge. The data, containing scholarly articles, is collected from sources like PubMed Central (PMC), PubMed, the World Health Organization’s COVID-19 Database, and various preprint servers like bioRxiv, medRxiv and arXiv.
+
 
 ## Pipeline Architecture
 <p align="center">
@@ -39,11 +42,22 @@ We have released two datasets for intrinsic evaluation, namely, COV19_729 and CO
 </p>
 
 
+Entity List | Spearman Correlation | Pearson Correlation| 
+--- | --- | ---
+COV19 729 (TransD) | **0.2186** | **0.2117**
+COV19 729 (RotatE) | 0.1933  | 0.1879
+COV19 25 (TransD) | **0.4570** | **0.4348**
+COV19 25 (RotatE) | 0.4240 | 0.4105
+
+Table 2: Pearson and Spearman Correlation values between the ratings and the cosine similarity scores of 729 randomly sampled entities and 25 pipeline predicted entities with respect to the COVID-19 vector
+
+
+
 ## Result
 <p align="center">
-  <img width="500" alt="mono_ar" src="https://github.com/sayantanbasu05/ERKLG/blob/master/Images/disease_covid_transd.png">
+  <img width="500" alt="mono_ar" src="https://github.com/sayantanbasu05/ERKLG/blob/master/Images/chemicals.png">
 </p>
-Fig:  Biomedical disease entities closely related to COVID-19
+Fig:  Biomedical drug entities present in CORD-19 dataset closely related to COVID-19
 
 
 ### For a more detailed explanation of the project, please visit this [blog post](https://www.deepwizai.com/erlkg)
